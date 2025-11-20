@@ -1,1 +1,0 @@
-Life Simulator game in Java
