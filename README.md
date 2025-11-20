@@ -1,2 +1,2 @@
 # LifeSim
-Life Simulator game in Python
+Life Simulator game in Java
