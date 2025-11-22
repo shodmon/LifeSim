@@ -1,3 +1,5 @@
+package com.lifesim;
+
 public class Player {
     // Stats
     public int intelligence;
@@ -8,5 +10,9 @@ public class Player {
 
     // Money
     public int money;
+
+    public Player() {
+        
+    }
 
 }
